@@ -130,3 +130,76 @@ margin-left: 3px;
 gap: 12px;
 margin-left: 100px;
 }
+
+.buttons{
+    display: flex;
+    gap: 31px;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 32px;
+}
+
+.buttons button{
+    width: 288px;
+height: 40px;
+padding: 7px 72px 7px 72px;
+gap: 10px;
+border: 0.5px  solid rgb(163, 162, 162);
+background-color: inherit;
+
+font-family: HelveticaNeueCyr;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+
+}
+
+.flexca a{
+    
+font-family: SF Pro Text;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+
+    color: #161C24;
+    text-decoration: none;
+
+}
+.flexca{
+    display: flex;
+    align-items: center;
+
+    gap: 8px
+    ;
+}
+.flexca img{
+    margin-top: 4px;
+}
+.btn{
+    display: flex;
+align-items: center;
+width:  194px;
+height: 40px;
+top: 286px;
+left: 1151px;
+gap: 16px;
+border: 1px solid #C4CDD5 ;
+margin-left: 488px;
+
+}
+
+.btn a{
+    margin-left: 12px;
+    margin-top: 4px;
+   width: 136px;
+font-family: SF Pro Text;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+color: #161C24;
+text-decoration: none;
+
+}
