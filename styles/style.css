@@ -213,3 +213,70 @@ border-radius: 2px ;
 border: 1px solid #C4CDD5;
 
 }
+.blok1 h2{
+    font-family: SF Pro Text;
+font-size: 22px;
+font-weight: 600;
+line-height: 32px;
+text-align: left;
+
+}
+.q{
+    display: flex;
+    gap: 180px;
+    margin-top: 47px;
+    align-items: center;
+}
+.q span{
+    width: 42px;
+height: 26px;
+gap: 0px;
+opacity: 0px;
+
+font-family: SF Pro Text;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+text-align: left;
+
+}
+
+.b1{
+    width: 116px;
+height: 44px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid  #4295E4;
+background-color: #fff;
+}
+
+.b2{
+    width: 116px;
+height: 44px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid  #4295E4;
+background-color: #fff;
+}
+.b3{
+    display: flex;
+    gap:8px;
+    margin-top: 39px;
+}
+
+.blok2{
+    width:  288px;
+height:  453px;
+
+}
+
+.headd{
+    width: 288px;
+height: 320px;
+background-image: url("arr");
+}
+
+
+
