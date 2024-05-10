@@ -2,21 +2,20 @@
     padding: 0;
     margin: 0;box-sizing: border-box    ;
     
+    
 }
 body{
     font-family: Poppins;
 }
-html,
-body{
-    margin-left: auto;
-    margin-right: auto;
+.container{
+    
 }
 header{
     max-width: 1440px;
-width: 100%;
-margin-left: auto;
+      width: 100%;
+
+margin: 0 auto;
 background-color: #fff;
-margin-right: auto;
 height: 126px;
 box-shadow: 0.3px 0.3px 0.3px 0.3px rgb(198, 219, 240);
 position: fixed;
@@ -548,4 +547,42 @@ color: #454F5B;
     gap: 30px;
     margin-top: 40px;
     margin-left: 418px;
+ }
+ footer .button{
+    width: 40px;
+height: 40px;
+border: none;
+background-color:#4295E4;
+;
+border-radius: 2px ;
+opacity: 0px;
+
+color: white;
+cursor: pointer;
+ }
+ footer .bt1{
+    width: 40px;
+height: 40px;
+padding-top: 1px;
+gap: 0px;
+opacity: 0px;
+border: none;
+background-color: inherit;
+cursor: pointer;
+ }
+
+ footer{
+    margin-left: 607px;
+    margin-top: 30px;
+    width: 546px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+ }
+
+ .src{
+    margin-left: 20px;
+ }
+ .src1{
+    margin-left: 20px;
  }
