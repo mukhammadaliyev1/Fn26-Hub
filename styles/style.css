@@ -6,7 +6,11 @@
 body{
     font-family: Poppins;
 }
-
+html,
+body{
+    margin-left: auto;
+    margin-right: auto;
+}
 header{
     max-width: 1440px;
 width: 100%;
@@ -224,7 +228,7 @@ text-align: left;
 .q{
     display: flex;
     gap: 180px;
-    margin-top: 47px;
+    margin-top: 32px;
     align-items: center;
 }
 .q span{
@@ -266,17 +270,282 @@ background-color: #fff;
     margin-top: 39px;
 }
 
-.blok2{
-    width:  288px;
-height:  453px;
+
+.s h2{
+   color: #161C24;
+font-family: SF Pro Text;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+text-align: left;
 
 }
 
-.headd{
+.s{
+    display: flex;
+    align-items: center;gap: 120px
+    
+    ;margin-top: 16px;
+}
+.ciz{
+    width: 240px;
+    border: 1px solid #EDEDED;
+    margin-top: 16px;
+
+}.s1{
+    display: flex;
+    align-items: center;gap: 175px
+    
+    ;margin-top: 16px;
+}
+.s1 h2{
+    color: #161C24;
+ font-family: SF Pro Text;
+ font-size: 16px;
+ font-weight: 500;
+ line-height: 26px;
+ text-align: left;
+ 
+ }
+ .s2{
+    display: flex;
+    align-items: center;gap: 140px
+    
+    ;margin-top: 16px;
+}
+.s2 h2{
+    color: #161C24;
+ font-family: SF Pro Text;
+ font-size: 16px;
+ font-weight: 500;
+ line-height: 26px;
+ text-align: left;
+ 
+ }
+ .s3{
+    display: flex;
+    align-items: center;gap: 140px
+    
+    ;margin-top: 16px;
+}
+.s3 h2{
+    color: #161C24;
+ font-family: SF Pro Text;
+ font-size: 16px;
+ font-weight: 500;
+ line-height: 26px;
+ text-align: left;
+ 
+ }
+
+
+ .blok2{
     width: 288px;
-height: 320px;
-background-image: url("arr");
+    height: 453px;
+ }
+ .ha a{
+    font-family: SF Pro Text;
+font-size: 13px;
+font-weight: 400;
+line-height: 21px;
+text-align: left;
+color: #454F5B;
+text-decoration: none;
+
+ }
+ .ha{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 10px;
+ }
+
+ .blok2 p{
+    width: 264px;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+color: #454F5B;
+margin-top: 6px;
+;
+ }
+
+
+ .px h2{
+
+    font-family: SF Pro Text;
+font-size: 20px;
+font-weight: 600;
+line-height: 23.87px;
+text-align: left;
+color: #161C24;
+ }
+ .px .rub{
+    text-decoration: line-through;
+    font-family: SF Pro Text;
+font-size: 18px;
+font-weight: 300;
+line-height: 21.48px;
+text-align: left;
+color: #454F5B;
+
+
+ }
+ .px{
+    display: flex;
+    gap: 12px;
+    margin-top: 10px;
+ }
+
+ .blok{
+    display: flex;
+    align-items: center;
+    gap: 30px
+    
+    ;
+margin-left: 100px;
+margin-top: 32px; 
 }
 
 
 
+ /* blok 3 */
+
+
+
+ 
+ .blok3{
+    width: 288px;
+    height: 453px;
+ }
+ .ha a{
+    font-family: SF Pro Text;
+font-size: 13px;
+font-weight: 400;
+line-height: 21px;
+text-align: left;
+color: #454F5B;
+text-decoration: none;
+
+ }
+ .ha{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 10px;
+ }
+
+ .blok3 p{
+    width: 264px;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+color: #454F5B;
+margin-top: 6px;
+;
+ }
+
+
+ .px h2{
+
+    font-family: SF Pro Text;
+font-size: 20px;
+font-weight: 600;
+line-height: 23.87px;
+text-align: left;
+color: #161C24;
+ }
+ .px .rub{
+    text-decoration: line-through;
+    font-family: SF Pro Text;
+font-size: 18px;
+font-weight: 300;
+line-height: 21.48px;
+text-align: left;
+color: #454F5B;
+
+
+ }
+ .px{
+    display: flex;
+    gap: 12px;
+    margin-top: 10px;
+ }
+
+ 
+ /* blpk4
+ */
+
+
+
+ 
+ .blok4{
+    width: 288px;
+    height: 453px;
+ }
+ .ha a{
+    font-family: SF Pro Text;
+font-size: 13px;
+font-weight: 400;
+line-height: 21px;
+text-align: left;
+color: #454F5B;
+text-decoration: none;
+
+ }
+ .ha{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 10px;
+ }
+
+ .blok4 p{
+    width: 264px;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+color: #454F5B;
+margin-top: 6px;
+;
+ }
+
+
+ .px h2{
+
+    font-family: SF Pro Text;
+font-size: 20px;
+font-weight: 600;
+line-height: 23.87px;
+text-align: left;
+color: #161C24;
+ }
+ .px .rub{
+    text-decoration: line-through;
+    font-family: SF Pro Text;
+font-size: 18px;
+font-weight: 300;
+line-height: 21.48px;
+text-align: left;
+color: #454F5B;
+
+
+ }
+ .px{
+    display: flex;
+    gap: 12px;
+    margin-top: 10px;
+ }
+
+ 
+
+
+ .pas{
+    display: flex;
+    gap: 30px;
+    margin-top: 40px;
+    margin-left: 418px;
+ }
