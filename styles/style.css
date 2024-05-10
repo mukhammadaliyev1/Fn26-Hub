@@ -203,3 +203,13 @@ color: #161C24;
 text-decoration: none;
 
 }
+
+.blok1{
+    width:  288px;
+height: 460px;
+
+padding: 24px ;
+border-radius: 2px ;
+border: 1px solid #C4CDD5;
+
+}
