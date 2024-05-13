@@ -617,6 +617,9 @@ margin-top: 100px;
 height: 564px;
 margin-top: 96px;
 margin-left: 100px;
+display: flex;
+
+align-items: center;
 
 
     }
@@ -656,3 +659,188 @@ color: #161C24;
 margin-top: 24px;
 
     }
+
+
+    .chekcbox  p{
+
+        width: 206px;
+height: 24px;
+gap: 0px;
+opacity: 0.9px;
+color: #161C24;
+
+    }
+
+   
+    .chekcbox{
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        justify-content: space-between;
+    }
+
+    .chekcbox1  p{
+margin-top: 4px;
+        width: 206px;
+height: 24px;
+gap: 0px;
+opacity: 0.9px;
+color: #161C24;
+
+    }
+
+   
+    .chekcbox1{
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    
+
+
+    .ff{
+
+        margin-top: 24px;
+        display: flex;
+        gap: 32px;
+    }
+
+    .ac{
+        width: 605px;
+height: 128px;
+
+color: #454F5B;
+;
+margin-top: 24px;
+    }
+    
+    .ac1{
+        width: 605px;
+height: 128px;
+
+color: #454F5B;
+;
+margin-top: 24px;
+    }
+
+
+
+    .wifi{
+        margin-top: 84px;
+        width: 1240px;
+height: 564px;
+display: flex;
+align-items: center;
+margin-left: 100px;
+justify-content: space-between;
+
+    }
+
+
+
+
+.ddd span{
+   
+        
+    width: 605px;
+height: 42px;
+top: 3189px;
+left: 100px;
+gap: 0px;
+opacity: 0px;
+
+font-family: SF Pro Text;
+font-size: 32px;
+font-weight: 600;
+line-height: 42px;
+text-align: left;
+
+color: #161C24;
+
+} 
+.oddi{
+    width: 605px;
+    
+    font-family: SF Pro Text;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+color: #454F5B;
+
+margin-top: 24px;
+
+}
+
+
+
+.foot{
+    width: 1440px;
+height: 332px;
+background-color:#F2F8FF;
+margin-top: 100px;
+}
+
+.foot h1{
+    color: #161C24;
+font-family: SF Pro Text;
+font-size: 44px;
+font-weight: 600;
+line-height: 62px;
+text-align: left;
+padding-top: 64px;margin-left: 487.5px;
+
+}
+.ec{
+   width: 518px;
+font-family: SF Pro Text;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+color: #454F5B;
+margin-left: 461px;
+margin-top: 24px;
+font-family: Poppins
+;
+
+}
+
+
+.inp{
+    width: 240px;
+    height: 50px;
+    background-color: #161C240A;
+    border: none;
+    padding: 5px;
+}
+
+
+.inp1{
+    width: 240px;
+    height: 50px;
+    background-color: #161C240A;
+    border: none;
+    padding: 5px;
+}
+
+
+.flexbox button{
+
+    width: 220px;
+height: 50px;
+left: 528px;
+gap: 0px;
+opacity: 0px;
+color: white;
+border: none;
+background-color: #4295E4;
+}
+.flexbox{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-left: 346px;
+    margin-top: 24px;
+}
